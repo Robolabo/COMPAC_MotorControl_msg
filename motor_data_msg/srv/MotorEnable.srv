@@ -1,0 +1,7 @@
+#enable service
+byte motor_id
+bool enable
+---
+#Service result
+int8 result
+uint32 time_stamp

@@ -1,0 +1,11 @@
+#Loop information
+byte motor_id
+byte loop_id
+float32 kp
+float32 ki
+float32 kd
+float32 windup
+---
+#Configuration status
+int8 result
+uint32 time_stamp

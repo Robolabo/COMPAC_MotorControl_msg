@@ -1,0 +1,12 @@
+byte b_motor_id
+uint32 u32_time_stamp
+float32 f_position
+float32 f_speed
+float32 f_current
+float32 f_reference
+float32 f_error_fb
+float32 f_error
+float32 f_control_ff
+float32 f_control_fb
+float32 f_control_dir
+float32 f_control_par

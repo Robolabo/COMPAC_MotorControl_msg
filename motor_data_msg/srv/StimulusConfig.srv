@@ -1,0 +1,15 @@
+byte motor_id
+byte stimulus_type
+uint32 duration
+float32 amplitude
+float32 frequency
+float32 t1
+float32 t2
+float32 t3
+float32 v1
+float32 v2
+float32 v3
+---
+#Configuration status
+int8 result
+uint32 time_stamp
