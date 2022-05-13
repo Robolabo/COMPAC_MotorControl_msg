@@ -1,0 +1,6 @@
+byte motor_id
+float32 reference
+---
+#Configuration status
+int8 result
+uint32 time_stamp

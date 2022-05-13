@@ -1,8 +1,0 @@
-byte b_motor_id
-uint32 u32_motor_freq_hz
-uint32 u32_control_period_ms
-uint32 u32_speed_period_ms
-uint32 u32_counts_per_rebolution
-byte b_mode
-byte b_reference_source
-float32 f_supply_voltage

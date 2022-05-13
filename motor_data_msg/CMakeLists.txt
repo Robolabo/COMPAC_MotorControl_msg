@@ -25,15 +25,13 @@ find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MotorData.msg"
-  "msg/LoopConfig.msg"
-  "msg/MotorConfig.msg"
-  "msg/MotorEnable.msg"
-  "msg/StimulusConfig.msg"
-  "msg/ControlReference.msg"
 
+  "srv/EnableData.srv"
   "srv/LoopConfig.srv"
   "srv/MotorConfig.srv"
   "srv/MotorEnable.srv"
+  "srv/Reference.srv"
+  "srv/SensorData.srv"
   "srv/StimulusConfig.srv"
  )
 

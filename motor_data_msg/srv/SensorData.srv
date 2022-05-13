@@ -1,0 +1,10 @@
+uint8   adc1_mode
+uint8   adc2_mode
+uint8   adc3_mode
+uint8   adc4_mode
+---
+float32 adc1_readout
+float32 adc2_readout
+float32 adc3_readout
+float32 adc4_readout
+uint8 temp

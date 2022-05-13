@@ -1,2 +1,0 @@
-byte b_motor_id
-bool bool_enable
